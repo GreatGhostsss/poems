@@ -1,4 +1,8 @@
 I can’t believe it
 I’ve done it!
+<<<<<<< HEAD
 Third line from tower-branch 
 aSLKDJaslkdå
+=======
+Oh my god
+>>>>>>> 5f3239be7af3dcd4095b609240d19cdbe28440a7
